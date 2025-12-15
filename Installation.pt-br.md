@@ -1,0 +1,12 @@
+# 🛠️ Instalação
+
+Todos os temas do GRUB são instalados da mesma maneira. Alguns temas podem fornecer um script de instalação, sinta-se à vontade para usá-lo se quiser, ele deve apenas realizar as mesmas ações descritas aqui. Algumas páginas de temas recomendam o uso do GRUB Customizer, eu não recomendo. Ele altera seus arquivos de configuração do GRUB e pode dificultar a aplicação de ajustes ou alterações.
+
+Clique no título do Tema que você deseja instalar e você deve ser levado para a página dele: Seja no Pling ou no Github. O Pling terá uma guia Files (Arquivos) logo abaixo da captura de tela de pré-visualização, o Github deve ter um botão verde CODE (CÓDIGO) no qual você pode clicar para clonar o repositório. Alguns temas são armazenados em pastas de um repositório maior; se você copiar o URL e colá-lo no Gitzip (Verifique a seção *Links Úteis*), poderá baixar apenas esses arquivos, em vez de clonar o repositório inteiro.
+
+Depois de ter os arquivos do tema, é apenas uma simples questão de soltá-los em uma pasta em **/boot/grub/themes**. Pode ser necessário alterar o proprietário desta pasta para interagir com ela, usando o comando `sudo chown $USER /boot/grub/themes`. Agora você deve ter uma pasta no diretório de temas com o nome do tema, e essa pasta deve incluir o theme.txt e quaisquer outros arquivos relevantes que vieram com o tema.
+
+Assim que o tema estiver no lugar, você só precisa configurar o GRUB para usá-lo. Navegue até **/etc/default** e edite o arquivo **grub** lá. Você precisará de permissões de Root para isso, você pode usar o comando sudoedit para abri-lo facilmente em seu terminal. Não é uma edição difícil de qualquer maneira, você não precisará usar o editor de terminal por muito tempo. Encontre a linha `GRUB_THEME=` e adicione o caminho para o theme.txt do tema que você deseja usar. Não se esqueça de alterar a linha `#GRUB_GFXMODE=` para a resolução desejada, removendo o `#` para habilitá-la.
+Finalmente, execute o comando `sudo update-grub` para finalizar suas alterações. Você precisa executar este comando sempre que fizer alterações em um arquivo de configuração. (Se você estiver no Fedora ou openSUSE, o comando é `sudo grub2-mkconfig -o /boot/grub2/grub.cfg` em vez disso)
+
+Ao reiniciar, você deve descobrir que seu novo tema será usado para o seu bootloader!
