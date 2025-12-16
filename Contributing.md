@@ -1,12 +1,12 @@
-# 👍 Contributing
-Contributions are very welcome, either of themes you've created yourself or just ones you've discovered online. Just open a Pull Request and it to the Table with a preview image and link to the page where the theme is hosted.  
-If you're not sure how, just open an Issue with the link and preview image included, and I'll add it myself when I get the chance. 
+# 👍 Contribuindo
+Contribuições são muito bem-vindas, sejam de temas que você criou ou apenas de temas que descobriu online. Basta abrir um Pull Request e adicioná-lo à Tabela com uma imagem de pré-visualização e um link para a página onde o tema está hospedado.
+Se você não tem certeza de como fazer isso, basta abrir uma Issue com o link e a imagem de pré-visualização incluídos, e eu mesmo adicionarei quando tiver a chance.
 
-Bear in mind, there are a few rules on what will be accepted:
+Tenha em mente que existem algumas regras sobre o que será aceito:
 
-* **The majority of elements must be changed from default:** Themes that consist of the default GRUB menu with just a background thrown in will not be accepted. In the least please try to include a custom background, menu selector and flavor text.
-* **Forks of existing themes must be recognizably different from their original:** Altering an existing theme is an excellent way to learn without having to dig through GRUB's sparse documentation. But if you wish to share an edited theme here, please ensure you've changed enough of it to stand out against the original. This page was created to make it easier to find unique themes, and that falls apart if every theme is a vague alteration to an existing one. Compare my CRT-Amber theme to the Fallout theme that it's forked from, for an example of how different you should aim to be.
-* **Theme must not be too similar to ones already on the page:** Similar to above, but even for completely custom themes.
-* **No Waifu themes**: Anime related themes are fine, but please, no themes revolving entirely around generic renders of an anime character. Pling has hundreds of these in every category, not just GRUB. Again, Anime is fine, this is just a rule against themes that consist of a few fancy colours and a single cutout of an anime character.
-* **No AI Generated Imagery**: Themes that include aspects of AI generated art will not be accepted.
-* **SFW only**: You'd think this is obvious, but you'd be surprised! 😳
+* **A maioria dos elementos deve ser alterada em relação ao padrão:** Temas que consistem no menu GRUB padrão com apenas um plano de fundo jogado não serão aceitos. No mínimo, tente incluir um plano de fundo personalizado, seletor de menu e texto de sabor (flavor text).
+* **Forks de temas existentes devem ser reconhecidamente diferentes de seus originais:** Alterar um tema existente é uma excelente maneira de aprender sem ter que vasculhar a escassa documentação do GRUB. Mas se você deseja compartilhar um tema editado aqui, certifique-se de ter alterado o suficiente para se destacar do original. Esta página foi criada para facilitar a busca por temas únicos, e isso se desfaz se cada tema for uma alteração vaga de um existente. Compare meu tema CRT-Amber com o tema Fallout do qual ele foi derivado, para um exemplo de quão diferente você deve tentar ser.
+* **O tema não deve ser muito semelhante aos que já estão na página:** Semelhante ao acima, mas até mesmo para temas completamente personalizados.
+* **Sem temas de Waifu**: Temas relacionados a animes são aceitáveis, mas, por favor, sem temas girando inteiramente em torno de renderizações genéricas de um personagem de anime. O Pling tem centenas desses em todas as categorias, não apenas no GRUB. Novamente, Anime é aceitável, isso é apenas uma regra contra temas que consistem em algumas cores extravagantes e um único recorte de um personagem de anime.
+* **Sem Imagens Geradas por IA**: Temas que incluem aspectos de arte gerada por IA não serão aceitos.
+* **Apenas SFW (Safe For Work)**: Você pensaria que isso é óbvio, mas ficaria surpreso! 😳
