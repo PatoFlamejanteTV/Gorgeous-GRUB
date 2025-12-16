@@ -1,52 +1,52 @@
-# 🚀 Intro
-**⭐ Thank you for 3K Stars! <3**
+# 🚀 Introdução
+**⭐ Obrigado pelas 3K Estrelas! <3**
 
-There are many great community made GRUB themes to spice up your bootloader before booting into your system proper. Unfortunately, they're spread across multiple sites and it can be difficult to find good ones. As another user told me, the majority of themes on Pling (the largest host of GRUB themes currently) are fairly low effort and can be boring to trawl through. Hence, I decided to put together this page to bring attention to some decent themes I've found around the internet over time. They aren't all absolute masterpieces of course: But they've all at least had a fair amount of effort put into them, with custom backgrounds, fonts, and colours.
+Existem muitos ótimos temas GRUB feitos pela comunidade para apimentar seu bootloader antes de inicializar seu sistema propriamente dito. Infelizmente, eles estão espalhados por vários sites e pode ser difícil encontrar bons temas. Como outro usuário me disse, a maioria dos temas no Pling (o maior host de temas GRUB atualmente) são de esforço bastante baixo e podem ser entediantes de vasculhar. Portanto, decidi montar esta página para chamar a atenção para alguns temas decentes que encontrei na internet ao longo do tempo. Eles não são todos obras-primas absolutas, é claro: Mas todos eles tiveram pelo menos uma quantidade razoável de esforço colocada neles, com fundos, fontes e cores personalizados.
 
-And don't forget, **themes are extremely easy to customize!** Like a theme's layout but prefer a different background? Just replace the image in its folder with one of your own. Don't like the positioning of a theme's elements? Open the theme.txt and change their values. Want a different colour scheme? They're all set by HEX Values, which you can swap out in seconds. You can even convert almost any font to the type GRUB uses with the grub-mkfont command, then change the `item_font` line in the theme.txt to use it.
-There's loads of potential for customization, you just have to work creatively around the limitations.
-Just bear in mind that each theme may have its own license or restrictions, so be sure to check first!
+E não se esqueça, **temas são extremamente fáceis de personalizar!** Gosta do layout de um tema, mas prefere um fundo diferente? Basta substituir a imagem em sua pasta por uma das suas. Não gosta do posicionamento dos elementos de um tema? Abra o theme.txt e altere seus valores. Quer um esquema de cores diferente? Todos são definidos por valores HEX, que você pode trocar em segundos. Você pode até converter quase qualquer fonte para o tipo que o GRUB usa com o comando grub-mkfont e, em seguida, alterar a linha `item_font` no theme.txt para usá-la.
+Há muito potencial para personalização, você apenas tem que trabalhar criativamente em torno das limitações.
+Apenas tenha em mente que cada tema pode ter sua própria licença ou restrições, então certifique-se de verificar primeiro!
 
-# 🌟 Useful Links
+# 🌟 Links Úteis
 
-[GitZip](https://kinolien.github.io/gitzip/) - Download individual folders and files from Github repositories without having to download the entire repo. Asks for a Token, but seems to work without just fine.
+[GitZip](https://kinolien.github.io/gitzip/) - Baixe pastas e arquivos individuais de repositórios do Github sem ter que baixar o repositório inteiro. Pede um Token, mas parece funcionar bem sem ele.
 
-[GRUB-Tweaks](https://github.com/VandalByte/grub-tweaks) - Multiple guides on various tweaks and additions you can make to further customize, or repair, your GRUB install.
+[GRUB-Tweaks](https://github.com/VandalByte/grub-tweaks) - Múltiplos guias sobre vários ajustes e adições que você pode fazer para personalizar ainda mais, ou reparar, sua instalação do GRUB.
 
-[Theme Tutorial](http://web.archive.org/web/20241209100014/http://wiki.rosalab.ru/en/index.php/Grub2_theme_tutorial) and [Theme References](http://web.archive.org/web/20241209094940/http://wiki.rosalab.ru/en/index.php/Grub2_theme_/_reference) - Pretty complex, but the best set of information I've managed to find so far. It may be easier to start by taking an existing theme and making edits to it yourself, rather than diving straight in and starting from scratch.
+[Tutorial de Tema](http://web.archive.org/web/20241209100014/http://wiki.rosalab.ru/en/index.php/Grub2_theme_tutorial) e [Referências de Tema](http://web.archive.org/web/20241209094940/http://wiki.rosalab.ru/en/index.php/Grub2_theme_/_reference) - Bastante complexo, mas o melhor conjunto de informações que consegui encontrar até agora. Pode ser mais fácil começar pegando um tema existente e fazendo edições nele você mesmo, em vez de mergulhar direto e começar do zero.
 
-[GRUB2 Theme Preview](https://github.com/hartwork/grub2-theme-preview) - Very useful software to preview GRUB themes without having to reboot your entire system. Requires a lot of dependencies (since it's spinning up a whole VM), but there's an easy command to install them all in the [GRUB-Tweaks](https://github.com/VandalByte/grub-tweaks?tab=readme-ov-file#-testing-your-grub-themes) repo.
+[Pré-visualização de Tema GRUB2](https://github.com/hartwork/grub2-theme-preview) - Software muito útil para visualizar temas GRUB sem ter que reiniciar todo o sistema. Requer muitas dependências (já que está rodando uma VM inteira), mas há um comando fácil para instalar todas elas no repositório [GRUB-Tweaks](https://github.com/VandalByte/grub-tweaks?tab=readme-ov-file#-testing-your-grub-themes).
 
-[Background Cycler](https://github.com/Jacksaur/GRUB-Background-Cycler) - Script I made that will cycle a theme to a different background each time your system is rebooted. The Cron job can be modified to run at specific amounts of time instead if desired.
+[Background Cycler](https://github.com/Jacksaur/GRUB-Background-Cycler) - Script que fiz que alternará um tema para um fundo diferente cada vez que seu sistema for reiniciado. O trabalho Cron pode ser modificado para rodar em quantidades específicas de tempo, se desejado.
 
 
-# 🛠️ [Installing a theme](https://github.com/Jacksaur/Gorgeous-GRUB/blob/main/Installation.md)
+# 🛠️ [Instalando um tema](https://github.com/Jacksaur/Gorgeous-GRUB/blob/main/Installation.md)
 
-# 👍 [How to contribute](https://github.com/Jacksaur/Gorgeous-GRUB/blob/main/Contributing.md)
+# 👍 [Como contribuir](https://github.com/Jacksaur/Gorgeous-GRUB/blob/main/Contributing.md)
 
-# 🎨 Themes
+# 🎨 Temas
 
->If you like a theme, please do consider giving it a rating on Pling or starring its repo on Github. It's very rare for anyone to rate on Pling and that's half the reason good themes are so hard to find. Plus, it always feels nice to see that people are enjoying the product you created.
+>Se você gostar de um tema, por favor, considere dar uma classificação no Pling ou marcar com estrela seu repositório no Github. É muito raro alguém avaliar no Pling e essa é metade da razão pela qual bons temas são tão difíceis de encontrar. Além disso, sempre é bom ver que as pessoas estão gostando do produto que você criou.
 
 |    |    |    |
 |:-------:|:-------:|:---------:|
 |<img src="/Images/Minegrub.png" width="247">|<img src="/Images/Descent.jpg" width="247">|<img src="/Images/SteamOS.png" width="247">|
-|**[Minegrub (Cycling Text)](https://github.com/Lxtharia/minegrub-theme) + [Combined Version!](https://github.com/Lxtharia/double-minegrub-menu)**|[**Descent**](https://www.pling.com/p/1000083/)|[**SteamOS (Personalized)**](https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme)|
+|**[Minegrub (Texto Rotativo)](https://github.com/Lxtharia/minegrub-theme) + [Versão Combinada!](https://github.com/Lxtharia/double-minegrub-menu)**|[**Descent**](https://www.pling.com/p/1000083/)|[**SteamOS (Personalizado)**](https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme)|
 |    |    |    |
 |<img src="/Images/Virtuaverse.png" width="247">|<img src="/Images/Yorha.png" width="247">|<img src="/Images/CRT-Amber.png" width="247">|
 |[**Virtuaverse**](https://github.com/Patato777/dotfiles/tree/main/grub)|[**YoRHa**](https://github.com/OliveThePuffin/yorha-grub-theme)|[**CRT-Amber**](https://www.pling.com/p/1727268/)|
 |    |    |    |
 |<img src="/Images/Minegrub-World.png" width="247">|<img src="/Images/Dedsec.gif" width="247">|<img src="/Images/Sekiro.gif" width="247">|
-|**[Minegrub World Select](https://github.com/Lxtharia/minegrub-world-sel-theme) + [Combined Version!](https://github.com/Lxtharia/double-minegrub-menu)**|[**DedSec (Set)**](https://www.pling.com/p/1569525/)|**Sekiro ([Normal](https://github.com/semimqmo/sekiro_grub_theme)/[Shadow](https://github.com/MrVivekRajan/Grub-Themes/tree/main/SekiroShadow))**|
+|**[Minegrub Seleção de Mundo](https://github.com/Lxtharia/minegrub-world-sel-theme) + [Versão Combinada!](https://github.com/Lxtharia/double-minegrub-menu)**|[**DedSec (Conjunto)**](https://www.pling.com/p/1569525/)|**Sekiro ([Normal](https://github.com/semimqmo/sekiro_grub_theme)/[Sombra](https://github.com/MrVivekRajan/Grub-Themes/tree/main/SekiroShadow))**|
 |    |    |    |
 |<img src="/Images/HyperFluent.gif" width="247">|<img src="/Images/Persona5.gif" width="247">|<img src="/Images/Wuthering_Waves.gif" width="247">|
-|[**HyperFluent (Set)**](https://www.pling.com/p/2133341/)|[**Persona 5 Royal (Set)**](https://www.pling.com/p/2122684)|[**Wuthering Waves (Set)**](https://www.pling.com/p/2184155)|
+|[**HyperFluent (Conjunto)**](https://www.pling.com/p/2133341/)|[**Persona 5 Royal (Conjunto)**](https://www.pling.com/p/2122684)|[**Wuthering Waves (Conjunto)**](https://www.pling.com/p/2184155)|
 |    |    |    |
 |<img src="/Images/Blasphemous.png" width="247">|<img src="/Images/HollowKnight.gif" width="247">|<img src="/Images/SpaceIsolation.jpg" width="247">|
-|[**Grubphemous**](https://github.com/pvtoari/grubphemous-theme)|[**Hollow Grub (Set)**](https://github.com/sergoncano/hollow-knight-grub-theme)|[**Space Isolation**](https://github.com/callmenoodles/space-isolation)|
+|[**Grubphemous**](https://github.com/pvtoari/grubphemous-theme)|[**Hollow Grub (Conjunto)**](https://github.com/sergoncano/hollow-knight-grub-theme)|[**Space Isolation**](https://github.com/callmenoodles/space-isolation)|
 |    |    |    |
 |<img src="/Images/Framework.png" width="247">|<img src="/Images/Sayonara.png" width="247">|<img src="/Images/ULTRAKILL.png" width="247">|
-|[**Framework**](https://github.com/HeinrichZurHorstMeyer/Framework-Grub-Theme)|**[Sayonara](https://github.com/samoht9277/dotfiles/tree/55455eec2c2df83be5373b1095915bb7086b1dab/grub/themes/sayonara) + [Improved Font](https://www.dropbox.com/s/il0dxjq5u65t0pt/Font.zip?dl=0)**|[**ULTRAKILL**](https://www.pling.com/p/2217746)|
+|[**Framework**](https://github.com/HeinrichZurHorstMeyer/Framework-Grub-Theme)|**[Sayonara](https://github.com/samoht9277/dotfiles/tree/55455eec2c2df83be5373b1095915bb7086b1dab/grub/themes/sayonara) + [Fonte Melhorada](https://www.dropbox.com/s/il0dxjq5u65t0pt/Font.zip?dl=0)**|[**ULTRAKILL**](https://www.pling.com/p/2217746)|
 |    |    |    |
 |<img src="/Images/Crossgrub.png" width="247">|<img src="/Images/Arcade.png" width="247">|<img src="/Images/DOOM.png" width="247">|
 |[**Crossgrub**](https://github.com/krypciak/crossgrub)|[**Arcade**](https://github.com/nobreDaniel/dotfile)|[**DOOM**](https://github.com/Lxtharia/doomgrub-theme)|
@@ -58,25 +58,25 @@ Just bear in mind that each theme may have its own license or restrictions, so b
 |[**Linux Mind**](https://www.pling.com/p/1397139/)|[**Fallout**](https://www.pling.com/p/1230882/)|[**Lobotomy GRUB**](https://github.com/rats-scamper/LoboGrubTheme)|
 |    |    |    |
 |<img src="/Images/Dark_Matter.gif" width="247">|<img src="/Images/CelesteGRUBch8.png" width="247">|<img src="/Images/Elegant.gif" width="247">|
-|[**Dark Matter (Set)**](https://www.pling.com/p/1603282/)|[**CelesteGRUB**](https://github.com/suilven641/CelesteGRUB/)|[**Elegant (Big Set!)**](https://github.com/vinceliuice/Elegant-grub2-themes)|
+|[**Dark Matter (Conjunto)**](https://www.pling.com/p/1603282/)|[**CelesteGRUB**](https://github.com/suilven641/CelesteGRUB/)|[**Elegant (Grande Conjunto!)**](https://github.com/vinceliuice/Elegant-grub2-themes)|
 |    |    |    |
 |<img src="/Images/Cyberpunk2077.png" width="247">|<img src="/Images/CyberRe.png" width="247">|<img src="/Images/Cyberpunk.png" width="247">|
 |[**Cyberpunk 2077**](https://www.pling.com/p/1515662/)|[**CyberRe**](https://www.pling.com/p/1420727/)|[**Cyberpunk**](https://www.pling.com/p/1429443/)|
 |    |    |    |
 |<img src="/Images/Catppuccin.png" width="247">|<img src="/Images/Axiom.jpg" width="247">|<img src="/Images/Solarized-Dark.png" width="247">|
-|[**Catppuccin (Set)**](https://github.com/catppuccin/grub)|[**Axiom**](https://github.com/Jacksaur/Gorgeous-GRUB-Archive/tree/main)|[**Solarized-Dark**](https://www.pling.com/p/1177401/)|
+|[**Catppuccin (Conjunto)**](https://github.com/catppuccin/grub)|[**Axiom**](https://github.com/Jacksaur/Gorgeous-GRUB-Archive/tree/main)|[**Solarized-Dark**](https://www.pling.com/p/1177401/)|
 |    |    |    |
 |<img src="/Images/CyberGRUB-2077.png" width="247">|<img src="/Images/Sleek.gif" width="247">|<img src="/Images/Distro.gif" width="247">|
-|[**CyberGRUB-2077**](https://github.com/adnksharp/CyberGRUB-2077)|[**Sleek (Set + Personalized)**](https://www.pling.com/p/1414997/)|[**Distro Themes (Set)**](https://www.pling.com/p/1482847/)|
+|[**CyberGRUB-2077**](https://github.com/adnksharp/CyberGRUB-2077)|[**Sleek (Conjunto + Personalizado)**](https://www.pling.com/p/1414997/)|[**Temas de Distro (Conjunto)**](https://www.pling.com/p/1482847/)|
 |    |    |    |
 |<img src="/Images/CyberXero.png" width="247">|<img src="/Images/Atomic.png" width="247">|<img src="/Images/Plasma.gif" width="247">|
-|[**CyberXero**](https://www.pling.com/p/1502415/)|[**Atomic**](https://www.pling.com/p/1200710/)|**Plasma ([Light](https://www.pling.com/p/1197062/)/[Dark](https://www.pling.com/p/1195799/))**|
+|[**CyberXero**](https://www.pling.com/p/1502415/)|[**Atomic**](https://www.pling.com/p/1200710/)|**Plasma ([Claro](https://www.pling.com/p/1197062/)/[Escuro](https://www.pling.com/p/1195799/))**|
 |    |    |    |
 |<img src="/Images/BSOL.png" width="247">|<img src="/Images/GTG.png" width="247">|<img src="/Images/Grubby_Terminal.jpg" width="247">|
 |[**BSOL**](https://www.github.com/harishnkr/bsol)|[**Grand Theft Gentoo**](https://gitlab.com/imnotpua/grub_gtg/)|[**Grubby Terminal**](https://gitlab.com/perthshiretim/grubby-terminal)|
 |    |    |    |
 |<img src="/Images/Billys_Agent.png" width="247">|<img src="/Images/Milk.png" width="247">|<img src="/Images/Modern.gif" width="247">|
-|[**Billy's Agent**](https://gitlab.com/Drorago/billys-agent-grub2-theme)|[**Milk Outside A Bag of Milk**](https://www.pling.com/p/2296341)|[**Modern Design Themes (Set)**](https://github.com/vinceliuice/grub2-themes)|
+|[**Billy's Agent**](https://gitlab.com/Drorago/billys-agent-grub2-theme)|[**Milk Outside A Bag of Milk**](https://www.pling.com/p/2296341)|[**Temas de Design Moderno (Conjunto)**](https://github.com/vinceliuice/grub2-themes)|
 |    |    |    |
 |<img src="/Images/Deadora.png" width="247">|<img src="/Images/Breeze.png" width="247">|<img src="/Images/GutsBlack-ArchLinux.png" width="247">|
 |[**Deadora**](https://www.deviantart.com/glacto/art/Deadora-600784822)|[**Breeze**](https://www.pling.com/p/1000111/)|[**Gutsblack Archlinux**](https://github.com/Jacksaur/Gorgeous-GRUB-Archive/tree/main)|
@@ -84,5 +84,5 @@ Just bear in mind that each theme may have its own license or restrictions, so b
 |<img src="/Images/GrubSouls.png" width="247">|<img src="/Images/Aero.png" width="247">|<img src="/Images/Valhalla.png" width="247">|
 |[**GrubSouls**](https://github.com/PedroMMarinho/grubsouls-theme)|[**Aero**](https://github.com/Jacksaur/Gorgeous-GRUB-Archive/tree/main)|[**VA-11 HALL-A**](https://github.com/happyzxzxz/valhallaDots/tree/main)|
 |    |    |    |
-|<img src="/Images/Grubshin_Bootpact.gif" width="247" alt="Grubshin Bootpact - A GRUB theme inspired by Genshin Impact's teleportation screen">|<img src="/Images/MatrixMorpheus.gif" width="247" alt="A minimalist Matrix-inspired GRUB theme featuring full-screen dynamic backgrounds that change between Linux and Windows.">|<img src="/Images/Placeholder.png" width="247">|
-|[**Grubshin Bootpact (Set)**](https://github.com/max-ishere/grubshin-bootpact)|[**Matrix-Morpheus-GRUB-Theme**](https://github.com/Priyank-Adhav/Matrix-Morpheus-GRUB-Theme)|-|
+|<img src="/Images/Grubshin_Bootpact.gif" width="247" alt="Grubshin Bootpact - Um tema GRUB inspirado na tela de teletransporte do Genshin Impact">|<img src="/Images/MatrixMorpheus.gif" width="247" alt="Um tema GRUB minimalista inspirado em Matrix com fundos dinâmicos em tela cheia que mudam entre Linux e Windows.">|<img src="/Images/Placeholder.png" width="247">|
+|[**Grubshin Bootpact (Conjunto)**](https://github.com/max-ishere/grubshin-bootpact)|[**Matrix-Morpheus-GRUB-Theme**](https://github.com/Priyank-Adhav/Matrix-Morpheus-GRUB-Theme)|-|
