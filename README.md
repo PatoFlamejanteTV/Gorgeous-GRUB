@@ -1,5 +1,5 @@
 # 🚀 Introdução
-**⭐ Obrigado pelas 3K Estrelas! <3**
+**⭐ Obrigado pelas 3K Estrelas! ❤️**
 
 Existem muitos ótimos temas GRUB feitos pela comunidade para apimentar seu bootloader antes de inicializar seu sistema propriamente dito. Infelizmente, eles estão espalhados por vários sites e pode ser difícil encontrar bons temas. Como outro usuário me disse, a maioria dos temas no Pling (o maior host de temas GRUB atualmente) são de esforço bastante baixo e podem ser entediantes de vasculhar. Portanto, decidi montar esta página para chamar a atenção para alguns temas decentes que encontrei na internet ao longo do tempo. Eles não são todos obras-primas absolutas, é claro: Mas todos eles tiveram pelo menos uma quantidade razoável de esforço colocada neles, com fundos, fontes e cores personalizados.
 
