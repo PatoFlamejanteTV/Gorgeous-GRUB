@@ -20,9 +20,9 @@ Apenas tenha em mente que cada tema pode ter sua própria licença ou restriçõ
 [Background Cycler](https://github.com/Jacksaur/GRUB-Background-Cycler) - Script que fiz que alternará um tema para um fundo diferente cada vez que seu sistema for reiniciado. O trabalho Cron pode ser modificado para rodar em quantidades específicas de tempo, se desejado.
 
 
-# 🛠️ [Instalando um tema](https://github.com/Jacksaur/Gorgeous-GRUB/blob/main/Installation.md)
+# 🛠️ [Instalando um tema](Installation)
 
-# 👍 [Como contribuir](https://github.com/Jacksaur/Gorgeous-GRUB/blob/main/Contributing.md)
+# 👍 [Como contribuir](Contributing)
 
 # 🎨 Temas
 
